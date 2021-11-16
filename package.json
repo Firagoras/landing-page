@@ -1,0 +1,14 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page for Udacity FEND Nanodegree",
+  "main": "app.js",
+  "scripts": {
+    "lint": "eslint ./js"
+  },
+  "author": "Mohamad Firas Etaki",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
